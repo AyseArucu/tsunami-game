@@ -73,3 +73,11 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+
+Tsunami_Game/Saved/
+Tsunami_Game/Intermediate/
+Tsunami_Game/DerivedDataCache/
+Tsunami_Game/.vs/
+Tsunami_Game/Binaries/
